@@ -80,3 +80,6 @@ The solution combines:
   
 5) FUTURE_ML_02.pbix
   Power BI dashboard file visualizing churn KPIs, risk distribution, feature impact, and interactive business insights.
+
+6) FUTURE_ML_02.pdf
+Exported PDF report summarizing churn KPIs, model insights, key churn drivers, and business-focused visualizations from the Power BI dashboard.
