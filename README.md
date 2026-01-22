@@ -4,7 +4,7 @@ Customer Churn Prediction System
 
 Machine Learning | Data Analytics | Business Intelligence
 
-! Project Overview
+### Project Overview
   
   Customer churn is a critical challenge for subscription-based businesses such as telecom, banking, and SaaS companies.
   This project builds an end-to-end churn prediction system that identifies customers likely to churn and provides business-ready insights using Machine Learning, Python, and Power BI.
@@ -17,14 +17,14 @@ The solution combines:
   Model evaluation
   Business-focused dashboards for decision-making
 
-* Objectives
+ ### Objectives
 
   Predict churn probability for each customer
   Identify key drivers of churn
   Enable data-driven retention strategies
   Present insights in an interactive Power BI dashboard
 
-* Tools & Technologies
+### Tools & Technologies
 
   Python (Pandas, NumPy, Matplotlib, Seaborn)
   Scikit-learn
@@ -33,18 +33,18 @@ The solution combines:
   Power BI
   GitHub
 
-* Dataset
+### Dataset
 
   Telco Customer Churn Dataset
   Includes customer demographics, service usage, contract details, and churn labels
 
-* Key columns:
+### Key columns:
   gender, SeniorCitizen, Contract
   InternetService, PaymentMethod
   MonthlyCharges, TotalCharges
   Churn
 
-* Key Insights
+### Key Insights
 
   Month-to-month contracts show the highest churn rate
   Customers with high monthly charges are more likely to churn
@@ -52,7 +52,7 @@ The solution combines:
   High-risk customers can be proactively targeted for retention
 
 
-* File Descriptions
+### File Descriptions
 
   TelcoCustomerChurn.csv
   Raw customer dataset containing demographics, service usage, contract details, and churn labels.
