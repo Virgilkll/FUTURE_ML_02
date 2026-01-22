@@ -5,6 +5,7 @@ Customer Churn Prediction System
 Machine Learning | Data Analytics | Business Intelligence
 
 * Project Overview
+  
   Customer churn is a critical challenge for subscription-based businesses such as telecom, banking, and SaaS companies.
   This project builds an end-to-end churn prediction system that identifies customers likely to churn and provides business-ready insights using Machine Learning, Python, and Power BI.
 
