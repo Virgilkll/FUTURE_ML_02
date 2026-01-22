@@ -66,17 +66,17 @@ The solution combines:
 
 ### File Descriptions
 
-  TelcoCustomerChurn.csv
+1) TelcoCustomerChurn.csv
   Raw customer dataset containing demographics, service usage, contract details, and churn labels.
   
-  FUTURE_ML_02.ipynb
+2) FUTURE_ML_02.ipynb
   Jupyter Notebook implementing end-to-end churn analysis including data cleaning, feature engineering, model training, and evaluation.
   
-  churn_predictions.csv
+3) churn_predictions.csv
   Output file containing customer-level churn probabilities and predicted churn risk segments.
   
-  feature_importance.csv
+4) feature_importance.csv
   Extracted feature importance scores highlighting the key factors influencing customer churn.
   
-  FUTURE_ML_02.pbix
+5) FUTURE_ML_02.pbix
   Power BI dashboard file visualizing churn KPIs, risk distribution, feature impact, and interactive business insights.
