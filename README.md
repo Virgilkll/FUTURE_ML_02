@@ -17,12 +17,16 @@ The solution combines:
   Model evaluation
   Business-focused dashboards for decision-making
 
+---
+
  ### Objectives
 
   Predict churn probability for each customer
   Identify key drivers of churn
   Enable data-driven retention strategies
   Present insights in an interactive Power BI dashboard
+
+---
 
 ### Tools & Technologies
 
@@ -33,10 +37,14 @@ The solution combines:
   Power BI
   GitHub
 
+---
+
 ### Dataset
 
   Telco Customer Churn Dataset
   Includes customer demographics, service usage, contract details, and churn labels
+
+---
 
 ### Key columns:
   gender, SeniorCitizen, Contract
@@ -44,12 +52,16 @@ The solution combines:
   MonthlyCharges, TotalCharges
   Churn
 
+---
+
 ### Key Insights
 
   Month-to-month contracts show the highest churn rate
   Customers with high monthly charges are more likely to churn
   Payment method and contract type are strong churn drivers
   High-risk customers can be proactively targeted for retention
+
+---
 
 
 ### File Descriptions
